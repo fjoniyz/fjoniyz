@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋! This is Fjoni!
 <!--
 **fjoniyz/fjoniyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About me 😄
+<p>I am</p> 
+<li>a student of computer science at TU Berlin</li>
+<li>interested mainly on backend development but not only</li>
+
+## You can contact me 📫
+<ul>
+<li><a href="https://pacific-dawn-59021.herokuapp.com/">Personal Website</a></li>
+<li><a href="https://www.linkedin.com/in/fjoni-yzeiri-9770471aa/">LinkedIn</a></li>
+</ul>
