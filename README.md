@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me 😄
-<p>I am</p> 
-<li>a student of computer science at TU Berlin</li>
+<ul>
+<li>computer science student at TU Berlin</li>
 <li>interested mainly on backend development but not only</li>
+</ul>
 
 ## You can contact me 📫
 <ul>
