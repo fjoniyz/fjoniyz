@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 ## You can contact me 📫
 <ul>
-<li><a href="https://pacific-dawn-59021.herokuapp.com/">Personal Website</a></li>
+<li><a href="https://fjoni-yzeiri.herokuapp.com/">Personal Website</a></li>
 <li><a href="https://www.linkedin.com/in/fjoni-yzeiri-9770471aa/">LinkedIn</a></li>
 </ul>
