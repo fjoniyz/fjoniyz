@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## About me 😄
 <ul>
 <li>computer science student at TU Berlin</li>
-<li>interested mainly on backend development but not only</li>
+<li>interested in software engineering, distributed systems</li>
 </ul>
 
 ## You can contact me 📫
