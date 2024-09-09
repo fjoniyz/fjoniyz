@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ## About me 😄
 <ul>
-<li>computer science student at TU Berlin</li>
+<li>computer science student at TU Munich</li>
 <li>interested in software engineering, distributed systems</li>
 </ul>
 
