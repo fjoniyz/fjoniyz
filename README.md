@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me 😄
-<ul>
-<li>computer science student at TU Munich</li>
-<li>interested in software engineering, distributed systems</li>
-</ul>
+I like software in general but mostly interested on the infrastructure running the software and distributed systems. At the moment, working on cloud infrastructure at Entrix and have acquired a B.Sc. from TU Berlin and M.Sc. from TU Munich. 
 
 ## You can contact me 📫
 <ul>
